@@ -1,0 +1,67 @@
+- 2D
+- RPG (niveis, inventario, armaduras, armas, poções, status...)
+- Combate Frenetico (inimigos normais se mechem, porem os Bosses são fixo no lugar)
+- Visão maior do cenario, visto por cima, estilo pokemon
+- dividido por regiões do reino, cada um sendo uma fase, composta por 2 ou mais cenarios (pensei em 4 cenarios, cada um com um estilo diferente, em vez de fazer como se fosse um enorme faroeste, assim como rd2 não é um enorme deserto)
+- historia linear
+- ambientação estilo rd2
+- Boss por fase (talvez bosses opcionais)
+
+(Historia a ser contada durante a gameplay)
+
+Vilão
+
+Avia um grande mal que pairava sobre aquela região de ..., esse mal 
+aterrorizava toda aquela região, tornando a vida pacifica de seus habitantes, um verdadeiro terror, porem um velho sabio, 
+o ultimo sabio responsavel pelo equilibrio daquele reino fez uma professia, que um dia, um guerreiro com uma nobre alma, 
+salvaria aquele reino desse mal, após anos de sofrimento e espera da concretização dessa professia, surgiu um rapaz, ele era forte e destemido,
+ele era o escolhido; esse jovem após grandes aventuras, se viu na sua ultima etapa da jornada, ele ja possuia muito poder, porem ainda precisava enfrentar
+o unico ser que o superava em força, o seu ultimo inimigo, aquele que espalhava o caos no reino, e ao enfrentalo, após muito esforço, finalmente o apice da batalha chegou,
+o momento em que o heroi daria seu ultimo golpe, porem, não o fez, por um ato de ganancia, o "heroi" decidiu absorver a alma de seu inimigo, consumindo seu poder para si,
+imaginando estar se tornando o ser mais poderoso de todos ... mas, tudo vem com um preço, ao consumir sua alma, o caos se instaurou nele, começou então
+um reinado de um ser tirano, antigo heroi que, com sua ganancia, adquiriu tanto poder que corrompeu sua propria alma
+
+(Em sua gameplay, será mostrado situações, relatos, manuscritos que ajudaram a entender a pessima atual situação do reino)
+
+Reino
+
+Após uma guerra contra um mal terrivel, um novo mal surgiu, um tirano se declarou rei daquele reino, e junto dele, uma nova epoca sombria, caracterizada por regras rigidas,
+fome, desigualdade e opressão aos considerados mais fracos; nesse reino, por conta da tirania, os habitantes mais velhos são oprimidos por serem considerados fracos, crianças 
+apartir de uma certa idade são obrigadas pelo exercito do rei tirano a trabalharem nos campos, fabricas e até ao alistamento involuntario, dependendo do nivel atual da criança,
+se for considerado uma pessoa que nasceu com um nivel consideravel, é levado e treinado a ser um ser frio e cruel, um membro do exercito real, as pessoas com niveis baixo em geral
+normalmente não tem abrigo, passam fome e vivem de migalhas se escondendo de uma pratica de eugenia imposta pelo rei, aqueles que entregarem esses seres inferiores recebem pequenos
+agrados, como um pouco mais de comida, e são considerados verdadeiros "conservadores da paz", as mulheres são consideradas, por uma pratica ideologica machista do rei, inferiores aos
+homens, portanto, elas não podem sair de casa sem a presença de seu marido, são tratadas como um objeto de procriação, destinadas a cuidar da casa e seus afazeres, criar os filhos 
+até atingirem a idade certa para serem chamados, e a prepararem as filhas para assumirem o mesmo papel com seu futuro marido, sem oportunidade de escolha e sem opnião, aqueles que
+ousarem a "sair da linha da paz" são condenados a miseria, tirando-os de suas casas, as jogando nas prisões ou até mesmo em penas mais graves, dependendo da acusação. Os mais ricos,
+donos de fabricas, fazendas ou grandes nomes considerados "conservadores da paz", são "motivados" a seguirem as praticas e leis impostas pelo tirano, com algumas pequenas ameaças
+de morte por deslealdade. Temos tambem o mais alto nivel, os comandantes responsaveis por preservar a ideia de ordem em cada local do reino, esses comandantes são escolhidos a dedo
+por seus niveis altos e sua alta lealdade, tirando o proprio rei, seriam esses comandandes os mais fortes do reino, cada um com seu proprio estilo de combate, temperamento, fraquezas e
+personalidade.
+
+
+Protagonista
+
+(cutscene) aos 13 anos, um ano antes de completar a idade nescessaria para ser chamado, sua familia foi massacrada a sangue frio por soldados do rei na frente do protagonista, enquanto o
+mesmo se escondia, obrigado a presenciar a morte de seus pais, aterrorizado, na primeira oportunidade ele fugiu dos soldados que por sorte, não o viu, sem entender o motivo disso,
+ainda com o sangue de seus familiares em suas mãos, ele correu para o mais longe de casa, o mais longe da ultima memoria de quando ele possuia um lar, memoria essa que o atormentaria
+durante toda a historia,com esse trauma, correndo pela sua vida acabou sem forças, e veio a desmaiar... 4 anos depois
+
+(gameplay)
+
+fase 1 ->
+ambientação: local frio, a neve, arvores e alguns animais acostumados com esse ambiente (esquilos, lobos, coelhos etc.)
+local inicial: pequena vila cercada por montanhas, dividida por um rio que nasce no alto da maior entra as montanhas, sua unica saida é uma estrada de rota comercial, com uma grande floresta de pinheiro
+
+
+Jogador ->
+nivel: 5
+armadura: peitoral quebrado
+arma: faca
+dinheiro: 26
+corações: 3
+anotações feitas: 1
+
+
+
+
